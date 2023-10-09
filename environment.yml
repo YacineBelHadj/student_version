@@ -1,0 +1,9 @@
+name: student-version
+dependencies:
+  numpy
+  pandas>=1.0.0
+  scipy>=1.4.1
+  matplotlib
+  pandas
+  ipympl
+
