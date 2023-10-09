@@ -1,9 +1,0 @@
-name: student-version
-dependencies:
-  numpy
-  pandas
-  scipy
-  matplotlib
-  pandas
-  ipympl
-
